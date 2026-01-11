@@ -33,19 +33,19 @@ The following packages are used in this project:
 
 ### 1. Clone the repository
 bash
-''git clone https://github.com/letmeburn/gsmpnsng-installer.git''
+```git clone https://github.com/letmeburn/gsmpnsng-installer.git```
 
 2. Enter the project directory
 
-''cd gsmpnsng-installer''
+```cd gsmpnsng-installer```
 
 3. Give execute permission to the script
 
-''chmod +x install.sh''
+```chmod +x install.sh```
 
 4. Run the installer
 
-''./install.sh''
+```./install.sh```
 
 📄 install.sh Overview
 
