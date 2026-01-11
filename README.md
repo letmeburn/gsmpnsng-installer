@@ -32,7 +32,7 @@ The following packages are used in this project:
 ## 📥 Installation
 
 ### 1. Clone the repository
-```bash
+bash
 git clone https://github.com/letmeburn/gsmpnsng-installer.git
 
 2. Enter the project directory
